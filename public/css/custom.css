@@ -1,0 +1,33 @@
+.section h2 {
+  border-bottom: 1px solid #a0a0a0;
+  margin-bottom: .75em;
+  line-height: 1.50em;
+}
+.tools {
+  margin-top: 15px;
+  margin-bottom: 15px;
+}
+
+.tools .col-xs-2 {
+  height: 80px;
+  line-height: 80px;
+}
+
+.tools img {
+  max-width: 140px;
+  max-height: 60px;
+  vertical-align: middle;
+}
+
+.container-fluid {
+    margin-top: 30px;
+    margin-bottom: 30px;
+}
+
+.btn{
+  border:0px solid transparent; /* this was 1px earlier */
+ }
+
+body {
+  font-family: 'Lora', serif;
+}
